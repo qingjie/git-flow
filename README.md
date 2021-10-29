@@ -1,7 +1,7 @@
 ![](img/1.png)
 ![](img/2.jpeg)
-![](img/2-hotfix.jpg)
-![](img/1-release.jpg)
+![](img/2-hotfix.png)
+![](img/1-release.jpeg)
 
 
 * https://skoch.github.io/Git-Workflow/
